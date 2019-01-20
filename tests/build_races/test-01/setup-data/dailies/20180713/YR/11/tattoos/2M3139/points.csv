@@ -1,0 +1,6 @@
+call,before,position,after,parked,lengths,horse_time
+Post,,6,,,,
+1,,4,X,,6.50,29.10
+2,X,8,X,,999.99,-99.00
+3,,8,,,999.99,-99.00
+Stretch,,8,,,999.99,

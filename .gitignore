@@ -1,0 +1,10 @@
+tests/trackmaster/data/dailies/
+tests/trackmaster/data/tattoos/
+tests/trackmaster/data/drivers.csv
+tests/trackmaster/data/horses.csv
+tests/trackmaster/data/races.csv
+tests/trackmaster/data/tracks.csv
+tests/trackmaster/data/trainers.csv
+tests/trackmaster/*.zip
+tests/build_races/data/testresults/
+**/run-data/
