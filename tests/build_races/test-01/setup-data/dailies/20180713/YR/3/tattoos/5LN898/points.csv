@@ -1,6 +1,0 @@
-call,before,position,after,parked,lengths,horse_time
-Post,SCR,0,,,,
-1,JG,99,,,0.00,-99.00
-2,,0,,,0.00,-99.00
-3,,0,,,0.00,-99.00
-Stretch,,0,,,0.00,
